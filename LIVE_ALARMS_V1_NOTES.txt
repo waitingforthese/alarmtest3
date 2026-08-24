@@ -1,0 +1,10 @@
+LIVE ALARMS V1
+12 live alarms:
+Moon - Rashi, Nakshatra, Charan
+Sun - Rashi, Nakshatra, Charan
+Panchang - Tithi, Yoga, Karana, Paksha
+Other - Prahar, Lagna
+
+Masa alarm intentionally excluded.
+Settings includes Prahar and Lagna switches.
+Saving Settings calls scheduleAll().
